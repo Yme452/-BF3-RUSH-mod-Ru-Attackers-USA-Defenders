@@ -26,9 +26,6 @@ Enjoy, and I hope this mod is useful for anyone who wants to play Rush with Russ
 Since the botspawner.lua file gets reset after every update to the funbot mod, there might also be changes, so you can modify it yourself as well 
 Mainly modifying these
 
-Here is the translation of those modification instructions into clear, professional English:
-
-***
 
 ### Modification 1: Swap Weapons (1st Location)
 **Search for:** `function BotSpawner:_SelectLoadout(p_Bot)`
